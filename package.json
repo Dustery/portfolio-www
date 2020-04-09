@@ -1,5 +1,5 @@
 {
-  "name": "sass",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.13.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustery/Portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dustery/Portfolio-website/issues"
+  },
+  "homepage": "https://github.com/Dustery/Portfolio-website#readme"
 }
