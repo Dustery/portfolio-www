@@ -281,4 +281,6 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .lg-heading {
-    text-align: center; } }
+    text-align: center; }
+  div {
+    font-size: 1rem; } }
