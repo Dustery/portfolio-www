@@ -282,5 +282,4 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .lg-heading {
-    line-height: 1;
-    margin-bottom: 1rem; } }
+    text-align: center; } }
