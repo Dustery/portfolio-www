@@ -281,8 +281,6 @@ main {
     margin-top: 10vh; }
   .projects {
     grid-template-columns: 1fr; }
-  .lg-heading {
-    text-align: center; }
   .boxes div {
     font-size: 1rem;
     border: none; } }
