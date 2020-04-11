@@ -156,6 +156,8 @@ main {
   grid-gap: 30px;
   grid-template-areas: 'bioimage bio bio' 'job1 job2 job3';
   grid-template-columns: repeat(3, 1fr); }
+  .about-info h6 {
+    font-size: 14px; }
 
 .bio-image {
   grid-area: bioimage;
