@@ -79,6 +79,10 @@ main {
     'bioimage bio bio'
     'job1 job2 job3';
     grid-template-columns: repeat(3, 1fr);
+
+    h6 {
+        font-size: 14px;
+    }
 }
 
 .bio-image {
